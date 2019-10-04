@@ -41,6 +41,7 @@ if GetLocale() == "ruRU" then
 	L["Collect Gold"] = "Собрать золото"
 	L["Collect Letters"] = "Получить"
 	L["Combat"] = "Бой"
+	L["ConfigPerAccount"] = "У вас установлены Глобальные настройки, они влияют сразу на всех персонажей! Вы не можете использовать эту команду!"
 	L["Copy Chat"] = "Скопировать чат"
 	L["Count"] = "Количество"
 	L["Current Invasion"] = "Текущий: "
