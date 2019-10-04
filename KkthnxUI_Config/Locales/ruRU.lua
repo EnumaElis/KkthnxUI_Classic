@@ -1194,6 +1194,10 @@ _G.KkthnxUIConfig["ruRU"] = {
 
 		["DataTextFonts"] = {
 			["Name"] = "Инфо-текст",
+		},		
+		
+		["FilgerFonts"] = {
+			["Name"] = "Шрифт кулдаунов",
 		},
 
 		["GeneralFonts"] = {
